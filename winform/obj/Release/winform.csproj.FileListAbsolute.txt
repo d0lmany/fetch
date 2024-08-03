@@ -1,0 +1,13 @@
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\bin\Release\winform.exe.config
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\bin\Release\winform.exe
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\bin\Release\winform.pdb
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\bin\Release\Newtonsoft.Json.dll
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\bin\Release\Newtonsoft.Json.xml
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\obj\Release\winform.csproj.AssemblyReference.cache
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\obj\Release\winform.Form1.resources
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\obj\Release\winform.Properties.Resources.resources
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\obj\Release\winform.csproj.GenerateResource.cache
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\obj\Release\winform.csproj.CoreCompileInputs.cache
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\obj\Release\winform.csproj.Up2Date
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\obj\Release\winform.exe
+C:\Users\desem\source\repos\fetch + выводы в граф\winform\obj\Release\winform.pdb
